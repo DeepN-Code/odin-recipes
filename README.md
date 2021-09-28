@@ -1,0 +1,1 @@
+This is an practice for the odin project. It mainly utilizes the HTML elements during the initial phase.
